@@ -1,2 +1,3 @@
-# raspagem_dados_datamaq
-Raspagem de Dados 
+# Raspagem de Dados - DataMaq
+
+## Script de raspagem de dados da base DataMaq
