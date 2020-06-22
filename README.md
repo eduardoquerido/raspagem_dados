@@ -1,3 +1,3 @@
-# Raspagem de Dados - DataMaq
+# Raspagem de Dados
 
-## Script de raspagem de dados da base DataMaq
+## Um script feito para recuperar dados do site datamaq
